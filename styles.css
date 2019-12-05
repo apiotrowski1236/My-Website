@@ -1,0 +1,33 @@
+
+
+body {
+  background-color: #f8f8f8; <!-- Changing body color to a light grey.-->
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #2b2b28;
+  border-width: 5px;
+  width: 5%;
+
+}
+
+h1 {
+  color: #2b2b28;
+  font-family: arial black;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #2b2b28;
+  font-family: arial black;
+}
+
+p {
+  font-family: arial;
+}
+
+img {
+  background-color: #e3b04b;
+}
